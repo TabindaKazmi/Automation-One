@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7583" started-at="2018-01-04T09:27:45Z" finished-at="2018-01-04T09:27:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7583" started-at="2018-01-04T09:27:45Z" finished-at="2018-01-04T09:27:53Z">
+      <class name="one.AutOne">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:one.AutOne@4501b7af]" name="openBrowser" is-config="true" duration-ms="5783" started-at="2018-01-04T14:27:45Z" finished-at="2018-01-04T14:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Form()[pri:0, instance:one.AutOne@4501b7af]" name="Form" duration-ms="1678" started-at="2018-01-04T14:27:51Z" finished-at="2018-01-04T14:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Form -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:one.AutOne@4501b7af]" name="URL" duration-ms="14" started-at="2018-01-04T14:27:53Z" finished-at="2018-01-04T14:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:one.AutOne@4501b7af]" name="Close" is-config="true" duration-ms="91" started-at="2018-01-04T14:27:53Z" finished-at="2018-01-04T14:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- one.AutOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
